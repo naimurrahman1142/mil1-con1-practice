@@ -35,3 +35,15 @@ section {
     border-radius: 20px;
     font-weight: 700;
 }
+
+h2 {
+    font-size: 32px;
+}
+
+.container2 {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+
+}
