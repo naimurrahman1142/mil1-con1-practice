@@ -86,12 +86,16 @@ h2 {
     box-shadow: 5px 5px 40px gray;
     display: flex;
     border-radius: 10px;
+    margin-bottom: 8%;
 }
 
-footer {
+.foot {
+    margin: 0%;
+    padding: 3rem 2rem;
+    background-color: black;
     text-align: center;
-    background: black;
     color: white;
+    border-radius: 10px;
 }
 
 .gray {
