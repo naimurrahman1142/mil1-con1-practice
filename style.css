@@ -87,6 +87,11 @@ h2 {
     display: flex;
     border-radius: 10px;
     margin-bottom: 8%;
+
+}
+
+.follower {
+    padding-left: 10rem;
 }
 
 .foot {
